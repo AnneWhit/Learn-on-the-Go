@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Learn-on-the-Go
 
-You can use the [editor on GitHub](https://github.com/AnneWhit/Learn-on-the-Go/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# What I Do When Waiting for a Delivery .
+First thing I do is organize my thoughts and ask myself Questions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+List:
+- What do I want to Create ?
+- How do | want It to look ?
+- What will be The main theme?
 
-### Markdown
+These are some Questions, but the Main thing is to organize all the different thoughts battling my mind.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## To start I will explain: Who am I?
+To put it simply. I am a 57 years old, who has four children (all out on their own). My husband passed a few years ago.
 
-```markdown
-Syntax highlighted code block
+Technology has fascinated me for many years. I remember getting my first Color T.V. when I was 8. The lrst cordless phone, beepers and then the first cell phones ( you must be rich to own one of those LOL ). The TRS 80 that Played a Gargoyle game that only played in dos. After I had kids - Dial up Internet was a problem with four kids all wanting to use it with only one desktop computer to share. 
+Through the years I have tried to keep up. First learning a little HTML and CSS code to make my own website. Then getting intrigued with python. I wrote my first code in a text editor and then a compilier. Today I see Something interesting and will go learn it. Like this post. I'm using markdown and github for this to learn how to use it.
 
-# Header 1
-## Header 2
-### Header 3
+I am now sitting uptown in my car writing this on my tablet with a Stylis pen in markdown code while waiting for a delivery from either doordash or grubhub. No orders yet, but to be fare, I knew it was too early. If I would have started this at home, I wouldn't have come to work at all today. This is more fun than delivering.
 
-- Bulleted
-- List
+## Organize Thoughts:
+List:
+- To start setting up github pages.
+    - 1.  Create New Repository with name: 'Learn on the Go'
+    - 2.   Add this Markdown code to repository,
+    (Yay, got an order)
+    - 3.  Go to Setting, github pages and set up.
+    - 4.  See how it looks-.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnneWhit/Learn-on-the-Go/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
