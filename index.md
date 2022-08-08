@@ -1,14 +1,15 @@
 # Learn-on-the-Go
 
+
 # What I Do When Waiting for a Delivery .
-First thing I do is organize my thoughts and ask myself Questions.
+### First thing I do is organize my thoughts and ask myself Questions.
 
 List:
 - What do I want to Create ?
 - How do | want It to look ?
 - What will be The main theme?
 
-These are some Questions, but the Main thing is to organize all the different thoughts battling my mind.
+### These are some Questions, but the Main thing is to organize all the different thoughts battling my mind.
 
 ## To start I will explain: Who am I?
 To put it simply. I am a 57 years old, who has four children (all out on their own). My husband passed a few years ago.
