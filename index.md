@@ -61,3 +61,19 @@ List:
 ..1. See if the ..1.symbol will Create a bullet with no indent.
 ..2. See if the ..2.symbol will Create a bullet with no indent.
 
+Conclusion:  Not quite What I was looking for.  I do see that the ' - + * ' completes the seperation that I was going for. But not the indenting.  I will try it again with some spaces. Brought them in 10 spaces, not 4, lol.
+
+- 5.  OK, so non of that worked. Let's try again.
+          - See if the -symbol will Create a bullet with no indent.
+          + See if the +symbol will Create a bullet with no indent.
+           * See if the *symbol will Create a bullet with no indent.
+
+- 6. *Block of code*
+```python 
+a = 5
+b = 2
+c = a * b
+print(c)
+
+
+
