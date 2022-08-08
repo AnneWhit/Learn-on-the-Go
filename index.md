@@ -50,3 +50,14 @@ List:
    OMGoodness, so Maybe I should read the directions More carefully. The periods actually mean spaces.  
    And two at the end mean a line break.
    Can be Very frustrating. But also very rewarding when you finally figure it out.
+
+   Did you notice that #5 went into a code block. That was unintentional. I had to do a little research to figure out what I did to make that happen. Seems if you put 4 spaces it automatically goes into a code block, LOL. The correct way to create it is to use 3 back-ticks. First let's redue What I was trying to accomplish last time.
+
+- 5.  OK, so non of that worked. Let's try again.
+- See if the -symbol will Create a bullet with no indent.
++ See if the +symbol will Create a bullet with no indent.
+* See if the *symbol will Create a bullet with no indent.
+..* See if the ..*symbol will Create a bullet with no indent.
+..1. See if the ..1.symbol will Create a bullet with no indent.
+..2. See if the ..2.symbol will Create a bullet with no indent.
+
