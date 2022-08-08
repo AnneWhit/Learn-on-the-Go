@@ -68,12 +68,19 @@ Conclusion:  Not quite What I was looking for.  I do see that the ' - + * ' comp
           + See if the +symbol will Create a bullet with no indent.
            * See if the *symbol will Create a bullet with no indent.
 
+   Did not do what I Wanted. I will try again with the signs to the left with spaces to try to bring them over where I want them.  
+- 5.  OK, so non of that worked. Let's try again.
+-              See if the -symbol will Create a bullet with no indent.
++             See if the +symbol will Create a bullet with no indent.
+*             See if the *symbol will Create a bullet with no indent.
+
 - 6. *Block of code*
 ```python 
 a = 5
 b = 2
 c = a * b
 print(c)
+```
 
 
 
