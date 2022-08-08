@@ -37,15 +37,16 @@ List:
 
 ...Just seeing what three dots before a paragraph will do to a paragraph...
 
+    - 5.  OK, so non of that worked. Let's try again.
+- See if the -symbol will Create a bullet with no indent.
++ See if the +symbol will Create a bullet with no indent.
+* See if the *symbol will Create a bullet with no indent.
+..* See if the ..*symbol will Create a bullet with no indent.
+..1. See if the ..1.symbol will Create a bullet with no indent.
+..2. See if the ..2.symbol will Create a bullet with no indent.
 
-
-
-
-
-
-
-
-
-
-
-
+...I am know testing to see if three periods before a sentence will make the paragraph print Correctly on the Page with the correct indents. 
+•••I am know testing to see if three bullets before a sentence will make the paragraph print Correctly on the Page with the correct indents.   
+   OMGoodness, so Maybe I should read the directions More carefully. The periods actually mean spaces.  
+   And two at the end mean a line break.
+   Can be Very frustrating. But also very rewarding when you finally figure it out.
