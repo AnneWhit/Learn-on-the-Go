@@ -74,6 +74,8 @@ Conclusion:  Not quite What I was looking for.  I do see that the ' - + * ' comp
 +             See if the +symbol will Create a bullet with no indent.
 *             See if the *symbol will Create a bullet with no indent.
 
+   OK, well good enough Time to move on.  
+
 - 6. *Block of code*
 ```python 
 a = 5
@@ -81,6 +83,25 @@ b = 2
 c = a * b
 print(c)
 ```
+   This worked well. You use 3 back-ticks, Then specify the Language, next line write your Code and 3 more back-ticks. I love Something that works the first time, 😌.   
+
+# *Update on _LIFE_*
+    My delivering on the first day I started this went better than I thought it was going to.  Five hours $90, with 1 1/2 hours spent working or this github page. Today is the second day, Monday, I went to work for four hours and made $78. know I'm at home working on this page.  
+   Probably Won't be back for a few days, need to take my dad for bloodwork tomorrow and get oil Changed, then work.  
+   Make sure you check back in and see the updates. I still have a lot more to Learn in Markdown.  
+   It was intentional not fixing all the mistakes. I want people to realize that we all go through a learning phase that sometimes isn't too pretty.  
+   The more we try, the more we learn.  
+   Have A Blessed Day.  
+
+
+
+
+
+
+
+
+
+
 
 
 
