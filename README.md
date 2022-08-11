@@ -1,9 +1,3 @@
----
-layout: post
-title: "Setting up VS Code"
-date: 2022-08-11 14:33:56 -0700
----
-
 # **Setting up VS.Code with Github pages to work offline**
 
 ### Open your terminal and go to Desktop.
