@@ -1,3 +1,5 @@
+[First Blog: Shows the first time trying to work with markdown and Github pages.](https://github.com/AnneWhit/Learn-on-the-Go/blob/gh-pages/first.md)
+
 # **Setting up VS.Code with Github pages to work offline**
 
 ### Open your terminal and go to Desktop.
