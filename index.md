@@ -1,4 +1,4 @@
-[First Blog: Shows the first time trying to work with markdown and Github pages.]<https://annewhit.github.io/Learn-on-the-Go/first>
+[First Blog: Shows the first time trying to work with markdown and Github pages.](<https://annewhit.github.io/Learn-on-the-Go/first>)
 
 
 # **Setting up VS.Code with Github pages to work offline**
