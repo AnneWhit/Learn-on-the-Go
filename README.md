@@ -10,7 +10,7 @@ ___
 
 ___
 
-[Try to open link to about page from the same directory](about.md)
+[Try to open link to about page from the same directory](gh-pages/about.md)
 
 ___
 
